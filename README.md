@@ -45,8 +45,8 @@ For SPCL_SimCSE(For ERC problem)-
    [87 1 6 5 98 19 5 7]    
    [48 1 10 13 9 31 8 6]    
    [46 1 3 10 8 5 13 2]  
-   [21 0 1 2 2 5 2 33]]  
-For SPCL_EFR (MELD)-  
+   [21 0 1 2 2 5 2 33]]
+#For SPCL_EFR (MELD)-  
 1. Direct Confusion matrix-  
    [[3023 0]  
    [489 0]]  
