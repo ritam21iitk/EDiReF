@@ -7,35 +7,35 @@ All code and models can also be found in the links below:
 [SPCL_HBert_GRU](https://drive.google.com/drive/folders/1rkJnSdMWwVhLtGPBqFYNSXluMmGchhKR)  
 
 ### Confusion Matrices
-### EFR-TX MaSaC
+### 1. EFR-TX MaSaC
 
 |           | 0 | 1 |
 |-----------|---|---|
 |            | 896 | 585 |
 |            | 211 | 209 |
 
-### EFR-TX MaSaC Hypothesis
+### 2. EFR-TX MaSaC Hypothesis
 
 |           | 0 | 1 |
 |-----------|---|---|
 |            | 691 | 263 |
 |            | 238 | 177 |
 
-### EFR-TX MELD
+### 3. EFR-TX MELD
 
 |           | 0 | 1 |
 |-----------|---|---|
 |            | 834 | 658 |
 |            | 202 | 283 |
 
-### EFR-TX MELD Hypothesis
+### 4. EFR-TX MELD Hypothesis
 
 |           | 0 | 1 |
 |-----------|---|---|
 |            | 370 | 469 |
 |            | 168 | 303 |
 
-### ERC MMN Hinglish
+### 5. ERC MMN Hinglish
 
 |           | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |-----------|---|---|---|---|---|---|---|---|
@@ -48,7 +48,7 @@ All code and models can also be found in the links below:
 |           | 0 | 2 | 0 | 0 | 0 | 46 | 0 | 0 |
 |           | 0 | 1 | 0 | 0 | 0 | 42 | 0 | 0 |
 
-### SPCL_SimCSE (For ERC problem)
+### 6. SPCL_SimCSE (For ERC problem)
 
 |           | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |-----------|---|---|---|---|---|---|---|---|
@@ -61,13 +61,13 @@ All code and models can also be found in the links below:
 |           | 46 | 1 | 3 | 10 | 8 | 5 | 13 | 2 |
 |           | 21 | 0 | 1 | 2 | 2 | 5 | 2 | 33 |
 
-### For SPCL_EFR (MELD)
+### 7. For SPCL_EFR (MELD)
 
 |           | 0 | 1 |
 |-----------|---|---|
 |           | 2765 | 258 |
 |           | 391 | 98 |  
-### SPCLHingBERTGRU  
+### 8. SPCLHingBERTGRU  
 |           | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |-----------|---|---|---|---|---|---|---|---|
 |           | 633 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -78,7 +78,7 @@ All code and models can also be found in the links below:
 |           | 126 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 |           | 88 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 |           | 66 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
-### SPCLHingBERT    
+### 9. SPCLHingBERT    
 |           | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |-----------|---|---|---|---|---|---|---|---|
 |           | 568 | 10 | 4 | 9 | 0 | 42 | 0 | 0 |
