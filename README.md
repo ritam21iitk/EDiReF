@@ -104,6 +104,6 @@ All code and models can also be found in the links below:
 |      5     | 0.00 | 0.00 | 0.00 | 21 |
 |     6      | 0.00 | 0.00 | 0.00 | 48 |
 |      7     | 0.00 | 0.00 | 0.00 | 43 |
-| Accuracy |---|---| 0.46 | 538 |
+| Accuracy |  |  | 0.46 | 538 |
 | Macro Avg | 0.16 | 0.14 | 0.11 | 538 |
 | Weighted Avg | 0.32 | 0.46 | 0.33 | 538 |
