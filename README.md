@@ -27,7 +27,7 @@ ERC MMN Hinglish
 [0 12 0 2 0 236 0 0]  
 [0 2 0 0 0 46 0 0]  
 [0 1 0 0 0 42 0 0]]  
-For SPCL_SimCSE-  
+For SPCL_SimCSE(For ERC problem)-  
 1. Direct Confusion matrix-  
    [[484 0 7 20 87 12 7 16]  
    [5 4 4 4 1 0 0 3]  
@@ -45,9 +45,14 @@ For SPCL_SimCSE-
    [87 1 6 5 98 19 5 7]    
    [48 1 10 13 9 31 8 6]    
    [46 1 3 10 8 5 13 2]  
-   [21 0 1 2 2 5 2 33]]  
-   
-
+   [21 0 1 2 2 5 2 33]]
+For SPCL_EFR (MELD)-
+1. Direct Confusion matrix-
+   [[3023 0]
+   [489 0]]
+2. Cluster Confusion matrix-
+   [[2765 258]
+   [391 98]]  
 
 
 
