@@ -6,13 +6,6 @@ https://drive.google.com/drive/folders/1It9bYNx94ebsgI3Cc-zpd4OYh7wMvNKh?usp=sha
 https://drive.google.com/drive/folders/1UyLdZndFs9bTclxYQ0H7n_yuAZfEazLx?usp=sharing
 https://drive.google.com/drive/folders/1rkJnSdMWwVhLtGPBqFYNSXluMmGchhKR  
 Confusion Matrices  
-For SPCL_SimCSE-  
-1. Direct Confusion matrix-  
-   [[3023 0]  
-   [489 0]]
-2. Cluster Confusion matrix-  
-   [[2765 258]  
-   [391 98]]  
 For EFR-TX MaSaC-  
 [[896 585]  
 [211 209]]  
@@ -33,7 +26,10 @@ ERC MMN Hinglish
 [0 3 0 0 0 33 0 0]  
 [0 12 0 2 0 236 0 0]  
 [0 2 0 0 0 46 0 0]  
-[0 1 0 0 0 42 0 0]]
+[0 1 0 0 0 42 0 0]]  
+For SPCL_SimCSE-  
+1. Direct Confusion matrix-  
+2. Cluster Confusion matrix-  
   
 
 
