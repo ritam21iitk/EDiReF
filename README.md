@@ -50,21 +50,6 @@ All code and models can also be found in the links below:
 
 ### SPCL_SimCSE (For ERC problem)
 
-#### i. Direct Confusion matrix
-
-|           | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|-----------|---|---|---|---|---|---|---|---|
-|           | 484 | 0 | 7 | 20 | 87 | 12 | 7 | 16 |
-|           | 5 | 4 | 4 | 4 | 1 | 0 | 0 | 3 |
-|           | 38 | 0 | 9 | 7 | 12 | 4 | 0 | 4 |
-|           | 68 | 4 | 2 | 17 | 15 | 4 | 7 | 1 |
-|           | 104 | 1 | 3 | 2 | 99 | 11 | 3 | 5 |
-|           | 68 | 0 | 9 | 12 | 8 | 18 | 6 | 5 |
-|           | 65 | 1 | 1 | 6 | 9 | 3 | 2 | 1 |
-|           | 29 | 0 | 0 | 3 | 2 | 1 | 3 | 28 |
-
-#### ii. Cluster Confusion matrix
-
 |           | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |-----------|---|---|---|---|---|---|---|---|
 |           | 416 | 0 | 22 | 29 | 76 | 29 | 33 | 28 |
@@ -77,15 +62,6 @@ All code and models can also be found in the links below:
 |           | 21 | 0 | 1 | 2 | 2 | 5 | 2 | 33 |
 
 ### For SPCL_EFR (MELD)
-
-#### i. Direct Confusion matrix
-
-|           | 0 | 1 |
-|-----------|---|---|
-|           | 3023 | 0 |
-|           | 489 | 0 |
-
-#### ii. Cluster Confusion matrix
 
 |           | 0 | 1 |
 |-----------|---|---|
