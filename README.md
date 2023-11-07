@@ -12,8 +12,8 @@ For SPCL_SimCSE-
    [489 0]]  
  2. Cluster Confusion matrix-  
    [[2765 258]  
-   [391 98]]
-   For EFR-TX MaSaC-  
+   [391 98]]  
+For EFR-TX MaSaC-  
 [[896 585]  
 [211 209]]  
 For EFR-TX MaSaC Hypothesis-  
