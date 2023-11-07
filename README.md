@@ -15,9 +15,9 @@ For SPCL_SimCSE-
    [391 98]]  
 For EFR-TX MaSaC-  
 [[896 585]  
-[211 209]]
+[211 209]]  
 For EFR-TX MaSaC Hypothesis-
-[[691 263]
+[[691 263]  
 [238 177]]
 
 
