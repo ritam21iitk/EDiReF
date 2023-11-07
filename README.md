@@ -7,13 +7,13 @@ https://drive.google.com/drive/folders/1UyLdZndFs9bTclxYQ0H7n_yuAZfEazLx?usp=sha
 https://drive.google.com/drive/folders/1rkJnSdMWwVhLtGPBqFYNSXluMmGchhKR  
 Confusion Matrices  
 For SPCL_SimCSE-  
-1. Direct Confusion matrix-  
+ 1. Direct Confusion matrix-  
    [[3023 0]  
    [489 0]]  
-2. Cluster Confusion matrix-  
+ 2. Cluster Confusion matrix-  
    [[2765 258]  
-   [391 98]]  
-For EFR-TX MaSaC-  
+   [391 98]]
+   For EFR-TX MaSaC-  
 [[896 585]  
 [211 209]]  
 For EFR-TX MaSaC Hypothesis-  
