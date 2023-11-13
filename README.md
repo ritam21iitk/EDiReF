@@ -188,6 +188,8 @@ You can find the detailed Project Report in the Project Report folder.
 |      7     | 0.39 | 0.50 | 0.44 | 66 |
 | Accuracy |  |  | 0.47 | 1354 |
 | Macro Avg | 0.33 | 0.32 | 0.33 | 1354 |
-| Weighted Avg | 0.45 | 0.47 | 0.46 | 1354 |  
+| Weighted Avg | 0.45 | 0.47 | 0.46 | 1354 |   
+
+
 I'm grateful to instructor Dr. Ashutosh Modi and my teammates Sachin and Yashwant for this project.
 
