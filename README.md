@@ -5,7 +5,7 @@ All code and models can also be found in the links below:
 [SPCL_SimCSE](https://drive.google.com/drive/folders/1It9bYNx94ebsgI3Cc-zpd4OYh7wMvNKh?usp=sharing)  
 [SPCL_EFR](https://drive.google.com/drive/folders/1UyLdZndFs9bTclxYQ0H7n_yuAZfEazLx?usp=sharing)  
 [SPCL_HBert_GRU](https://drive.google.com/drive/folders/1rkJnSdMWwVhLtGPBqFYNSXluMmGchhKR)  
-
+You can find the detailed Project Report in the Project Report folder.
 ### Confusion Matrices
 ### 1. EFR-TX MaSaC
 
@@ -189,4 +189,5 @@ All code and models can also be found in the links below:
 | Accuracy |  |  | 0.47 | 1354 |
 | Macro Avg | 0.33 | 0.32 | 0.33 | 1354 |
 | Weighted Avg | 0.45 | 0.47 | 0.46 | 1354 |  
+I'm grateful to instructor Dr. Ashutosh Modi and my teammates Sachin and Yashwant for this project.
 
